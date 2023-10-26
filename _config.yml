@@ -17,8 +17,8 @@ title: The Radical Humanties Lab
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   An inarguably well-designed Jekyll theme.
-baseurl: "/radlab" # the subpath of your site, e.g. /blog
-url: "/website" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://radicallab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: 
 github_username:  
