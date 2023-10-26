@@ -61,7 +61,7 @@ Proposed events or interventions could include readings, music, sonic art, digit
  <li>Artist Bio</li>
  <li>Description of Piece</li>
  <li>Performance Notes</li>
- <li>Link to supporting multimedia</li>
+ <li>Links to supporting multimedia</li>
 </ul>
 
 <h5>Page 2</h5>
