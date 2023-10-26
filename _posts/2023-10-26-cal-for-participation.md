@@ -8,7 +8,7 @@ categories: literature
 <h3>Call for participation at the inaugural conference of the Radical Humanities Laboratory</h3>
 <h3>University College Cork</h3>
 <h4>8th - 9th of May 2024</h4>
-<h4>Submission deadline: 12 December 2023.</h4>
+<h4>Submission deadline: 12 December 2023</h4>
 
 What potential do the humanities hold today – and how might research and praxis animate these visions? Ours is an epoch of violence and apparent breakdown, with long-term sources. But it is also an era of unexpected conjunctures and new possibilities. The foundations of contemporary politics, economics and society reconfigure around us as inherited visions of the future are transformed and revaluated. Technological change and transformations disorient all stable reference points.  
 
@@ -53,8 +53,7 @@ For paper proposals please submit an abstract of 250-words. For panel proposals 
 Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia, and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide a description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: [https://bit.ly/rhltechspecdoc](https://bit.ly/rhltechspecdoc ) 
 
 <h4>Please adhere to the following structure: </h4>
-<h4>Page 1</h4>
-
+<h5>Page 1</h5>
 <ul>
  <li><Title</li>
  <li>Type/Media</li>
@@ -64,7 +63,8 @@ Proposed events or interventions could include readings, music, sonic art, digit
  <li>Performance Notes</li>
  <li>Link to supporting multimedia</li>
 </ul>
-<h4>Page 2</h4>
+
+<h5>Page 2</h5>
 <ul>
  <li>Technical Overview</li>
  <li>List of Equipment to be provided by the artist</li>
