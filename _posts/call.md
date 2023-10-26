@@ -98,5 +98,3 @@ Page 2: Technical Overview; List of Equipment to be provided by the artist; List
  
 
 Please email all submissions to:  XXXX@ie.edu first person it saw. In this way I am no doubt indirectly responsible for Dr. Grimesby Roylott's death, and I cannot say that it is likely to weigh very heavily upon my conscience.”
-
-[Text taken from here](https://sherlock-holm.es/stories/html/spec.html)
