@@ -41,25 +41,27 @@ The conference is free of charge to all selected and registered participants, in
 We are open to all topics, approaches and exchanges among, but not limited to: 
 
  
+<ul>
 
-    Environmental Humanities 
+    <li> Environmental Humanities </li>
 
-    Medical Humanities 
+    <li> Medical Humanities </li>
 
-    Digital Humanities 
+     <li>Digital Humanities </li>
 
-    Intersectional & Decolonial Humanities 
+     <li>Intersectional & Decolonial Humanities</li> 
 
-    Sciences Arts and Technology Studies 
+     <li>Sciences Arts and Technology Studies</li>
 
-    Science-Humanities collaborations 
+     <li>Science-Humanities collaborations</li> 
 
-    Interdisciplinary Arts Practices
-    (including Computer & Data-Driven Practices) 
+     <li>Interdisciplinary Arts Practices
+    (including Computer & Data-Driven Practices)</li> 
 
-    Radical Ethics & Philosophy 
+     <li>Radical Ethics & Philosophy</li>
 
- 
+ </ul>
+
 
 <h3>Papers and Panels </h3>
 
@@ -68,7 +70,7 @@ For paper proposals please submit an abstract of 250-words. For panel proposals 
  
 <h3>Creative Practices and Performances </h3>
 
-Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia, and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide a description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: https://bit.ly/rhltechspecdoc 
+Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia, and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide a description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: [https://bit.ly/rhltechspecdoc](https://bit.ly/rhltechspecdoc ) 
 
 <h4>Please adhere to the following structure: </h4>
 
