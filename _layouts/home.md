@@ -10,7 +10,6 @@ categories: literature
 <h4>8 - 9 May 2024</h4>
 <h4>Submission deadline: 12 December 2023.</h4>
 
-
 What potential do the humanities hold today – and how might research and praxis animate these visions? Ours is an epoch of violence and apparent breakdown, with long-term sources. But it is also an era of unexpected conjunctures and new possibilities. The foundations of contemporary politics, economics and society reconfigure around us as inherited visions of the future are transformed and revaluated. Technological change and transformations disorient all stable reference points.  
 
 We ask: “What forms of thought and practice can meet such a moment?” 
@@ -26,54 +25,49 @@ The Radical Humanities Laboratory: Radical Futures invites scholars, scientists,
  <li>Creative practice</li>    
  <li>Performances</li>    
 </ul>
- 
 
 <h3>Call for papers, panels & performances</h3>
-
- 
-
 We invite proposal for papers, panels and performances by scholars, scientists, artists, performers and activists whose work addresses the myriad ecological, social, political, cultural and scientific crises of our times with mould-breaking and radical new thinking. 
-
- 
 
 The conference is free of charge to all selected and registered participants, including panels, tea & coffees, reception and a social event. 
 
 We are open to all topics, approaches and exchanges among, but not limited to: 
 
- 
 <ul>
-
-    <li> Environmental Humanities </li>
-
-    <li> Medical Humanities </li>
-
-     <li>Digital Humanities </li>
-
-     <li>Intersectional & Decolonial Humanities</li> 
-
-     <li>Sciences Arts and Technology Studies</li>
-
-     <li>Science-Humanities collaborations</li> 
-
-     <li>Interdisciplinary Arts Practices
+ <li> Environmental Humanities </li>
+ <li> Medical Humanities </li>
+ <li>Digital Humanities </li>
+ <li>Intersectional & Decolonial Humanities</li> 
+ <li>Sciences Arts and Technology Studies</li>
+ <li>Science-Humanities collaborations</li> 
+ <li>Interdisciplinary Arts Practices
     (including Computer & Data-Driven Practices)</li> 
-
-     <li>Radical Ethics & Philosophy</li>
-
+ <li>Radical Ethics & Philosophy</li>
  </ul>
 
-
 <h3>Papers and Panels </h3>
-
 For paper proposals please submit an abstract of 250-words. For panel proposals briefly outline the topic of your discussion, and your suggested panel members and provide a short statement on the relevance of the panel to the conference themes (word count: 250 max). Please also provide an additional 50-word biographical statement. 
 
  
 <h3>Creative Practices and Performances </h3>
-
 Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia, and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide a description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: [https://bit.ly/rhltechspecdoc](https://bit.ly/rhltechspecdoc ) 
 
 <h4>Please adhere to the following structure: </h4>
+<h4>Page 1</h4>
+<ul>
+ <li><Title<li>
+ <li>Type/Media</li>
+ <li>Duration (if any)</li>
+ <li>Artist Bio</li>
+ <li>Description of Piece</li>
+ <li>Performance Notes</li>
+ <li>Link to supporting multimedia</li>
+</ul>
+<h4>Page 2</h4>
+<ul>
+ <li>Technical Overview</li>
+ <li>List of Equipment to be provided by the artist</li>
+ <li>List of Equipment to be provided by the venue</li>
+</ul>
 
-Page 1: Title; Type/Media; Duration (if any); Artist Bio (include weblinks if available); Performance Notes; Description of Piece; Links to Supporting Materials (video/audio recordings & text/image documentation). 
-
-Page 2: Technical Overview; List of Equipment to be provided by the artist; List of Equipment to be provided by the venue. 
+<h3>Please email all submissions to:  [radicalhumanitieslab@gmail.com](radicalhumanitieslab@gmail.com)</h3>
