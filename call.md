@@ -54,8 +54,9 @@ Proposed events or interventions could include readings, music, sonic art, digit
 
 <h4>Please adhere to the following structure: </h4>
 <h4>Page 1</h4>
+
 <ul>
- <li><Title<li>
+ <li><Title</li>
  <li>Type/Media</li>
  <li>Duration (if any)</li>
  <li>Artist Bio</li>
