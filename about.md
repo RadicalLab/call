@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-Environmental destruction, catastrophic inequality, persistent gender discrimination and racisms, ongoing colonial rule, war, pandemics, digital mass manipulation...
+<b>Environmental destruction, catastrophic inequality, persistent gender discrimination and racisms, ongoing colonial rule, war, pandemics, digital mass manipulation...</b>
 
 Ours is an epoch of violence and apparent breakdown, with long term sources. But it is also an era of unexpected conjunctures and new possibilities. Statues have fallen and new movements have shaken the foundations of contemporary politics, economics and society. Technological change and transformations disorient all stable reference points. Science and the Arts are no longer two cultures, but intertwined fields that take strange, new and hybrid forms.
 
