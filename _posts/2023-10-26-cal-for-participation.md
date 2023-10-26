@@ -7,7 +7,7 @@ categories: literature
 
 <h3>Call for participation at the inaugural conference of the Radical Humanities Laboratory</h3>
 <h3>University College Cork</h3>
-<h4>8 - 9 May 2024</h4>
+<h4>8th - 9th of May 2024</h4>
 <h4>Submission deadline: 12 December 2023.</h4>
 
 What potential do the humanities hold today – and how might research and praxis animate these visions? Ours is an epoch of violence and apparent breakdown, with long-term sources. But it is also an era of unexpected conjunctures and new possibilities. The foundations of contemporary politics, economics and society reconfigure around us as inherited visions of the future are transformed and revaluated. Technological change and transformations disorient all stable reference points.  
