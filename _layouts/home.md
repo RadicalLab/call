@@ -143,4 +143,4 @@ Proposed events or interventions could include readings, music, sonic art, digit
  <li>List of Equipment to be provided by the venue</li>
 </ul>
 
-<h3>Please email all submissions to:  [radicalhumanitieslab@gmail.com](radicalhumanitieslab@gmail.com)</h3>
+<h3>Please email all submissions to: radicalhumanitieslab@gmail.com</h3>
