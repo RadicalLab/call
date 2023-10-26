@@ -1,27 +1,15 @@
 ---
-title: Radical Futures Call for Participation
-author: Radical Humanities Laboratory
-category: literature
 layout: post
+title: "Radical Futures "
+author: "Radical Humanities Laboratory"
+categories: literature
 ---
 
-“Radical Futures” 
+<h3>Call for participation at the inaugural conference of the Radical Humanities Laboratory</h3>
+<h3>University College Cork</h3>
+<h4>8 - 9 May 2024</h4>
+<h4>Submission deadline: 12 December 2023 </h4>
 
-Call for participation at the inaugural conference of the Radical Humanities Laboratory 
-
-University College Cork 
-
-__________________________________________________________________________ 
-
-  
-
-8 - 9 May 2024 
-
- 
-
-Submission deadline: 12 December 2023 
-
- 
 
 What potential do the humanities hold today – and how might research and praxis animate these visions? Ours is an epoch of violence and apparent breakdown, with long-term sources. But it is also an era of unexpected conjunctures and new possibilities. The foundations of contemporary politics, economics and society reconfigure around us as inherited visions of the future are transformed and revaluated. Technological change and transformations disorient all stable reference points.  
 
@@ -31,21 +19,16 @@ To be radical means to grasp things by the root. In practice, to be radical requ
 
 The Radical Humanities Laboratory: Radical Futures invites scholars, scientists, artists, activists, archivists, and policy shapers, to engage in conversations about the roots of present crises – ecological, political and social, and how collective futures might be better understood, transformed and lived differently as new potentials and trajectories emerge.  
 
+<h3>Event strands: </h3>
+<ul>
+ <li>Papers</li>    
+ <li>Panel discussions</li>    
+ <li>Creative practice</li>    
+ <li>Performances</li>    
+</ul>
  
 
-Event strands: 
-
-    Papers 
-
-    Panel discussions 
-
-    Creative practice 
-
-    Performances 
-
- 
-
-Call for papers, panels & performances 
+<h3>Call for papers, panels & performances</h3>
 
  
 
@@ -71,30 +54,24 @@ We are open to all topics, approaches and exchanges among, but not limited to:
 
     Science-Humanities collaborations 
 
-    Interdisciplinary Arts Practices (including Computer & Data-Driven Practices) 
+    Interdisciplinary Arts Practices
+    (including Computer & Data-Driven Practices) 
 
     Radical Ethics & Philosophy 
 
  
 
-Papers and Panels 
+<h3>Papers and Panels </h3>
 
-For paper proposals please submit an abstract of 250-words. For panel proposals briefly outline the topic of your discussion, your suggested panel members and provide a short statement on the relevance of the panel to the conference themes (word count: 250 max). Please also provide an additional 50-word biographical statement. 
+For paper proposals please submit an abstract of 250-words. For panel proposals briefly outline the topic of your discussion, and your suggested panel members and provide a short statement on the relevance of the panel to the conference themes (word count: 250 max). Please also provide an additional 50-word biographical statement. 
 
  
+<h3>Creative Practices and Performances </h3>
 
-Creative Practices and Performances  
+Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia, and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide a description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: https://bit.ly/rhltechspecdoc 
 
-Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: https://bit.ly/rhltechspecdoc 
-
-Please adhere to the following structure: 
+<h4>Please adhere to the following structure: </h4>
 
 Page 1: Title; Type/Media; Duration (if any); Artist Bio (include weblinks if available); Performance Notes; Description of Piece; Links to Supporting Materials (video/audio recordings & text/image documentation). 
 
- 
-
 Page 2: Technical Overview; List of Equipment to be provided by the artist; List of Equipment to be provided by the venue. 
-
- 
-
-Please email all submissions to:  XXXX@ie.edu first person it saw. In this way I am no doubt indirectly responsible for Dr. Grimesby Roylott's death, and I cannot say that it is likely to weigh very heavily upon my conscience.”
