@@ -74,6 +74,22 @@ Proposed events or interventions could include readings, music, sonic art, digit
 
 <h4>Please adhere to the following structure: </h4>
 
-Page 1: Title; Type/Media; Duration (if any); Artist Bio (include weblinks if available); Performance Notes; Description of Piece; Links to Supporting Materials (video/audio recordings & text/image documentation). 
+<h4>Page 1</h4>
+<ul>
+ <li><Title<li>
+ <li>Type/Media</li>
+ <li>Duration (if any)</li>
+ <li>Artist Bio</li>
+ <li>Description of Piece</li>
+ <li>Performance Notes</li>
+ <li>Link to supporting multimedia</li>
+</ul>
 
-Page 2: Technical Overview; List of Equipment to be provided by the artist; List of Equipment to be provided by the venue. 
+<h4>Page 2</h4>
+<ul>
+ <li>Technical Overview</li>
+ <li>List of Equipment to be provided by the artist</li>
+ <li>List of Equipment to be provided by the venue</li>
+</ul>
+
+<h3>Please email all submissions to:  [radicalhumanitieslab@gmail.com](radicalhumanitieslab@gmail.com)</h3>
