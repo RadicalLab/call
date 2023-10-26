@@ -63,17 +63,15 @@ We are open to all topics, approaches and exchanges among, but not limited to:
 
 <h3>Papers and Panels </h3>
 
-For paper proposals please submit an abstract of 250-words. For panel proposals briefly outline the topic of your discussion, your suggested panel members and provide a short statement on the relevance of the panel to the conference themes (word count: 250 max). Please also provide an additional 50-word biographical statement. 
+For paper proposals please submit an abstract of 250-words. For panel proposals briefly outline the topic of your discussion, and your suggested panel members and provide a short statement on the relevance of the panel to the conference themes (word count: 250 max). Please also provide an additional 50-word biographical statement. 
 
  
 <h3>Creative Practices and Performances </h3>
 
-Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: https://bit.ly/rhltechspecdoc 
+Proposed events or interventions could include readings, music, sonic art, digital art, dance, audio-visual, multimedia, and other artistic performances. Proposals should be roughly 2 pages in length. Page 1 should provide a description of the performance along with links to any supporting multimedia materials. Page 2 should provide a detailed technical overview that clearly states what equipment you need from us and what you can provide yourself. Proposals will be assessed for technical feasibility. For a full overview of the venue’s technical specifications see here: https://bit.ly/rhltechspecdoc 
 
 <h4>Please adhere to the following structure: </h4>
 
 Page 1: Title; Type/Media; Duration (if any); Artist Bio (include weblinks if available); Performance Notes; Description of Piece; Links to Supporting Materials (video/audio recordings & text/image documentation). 
-
- 
 
 Page 2: Technical Overview; List of Equipment to be provided by the artist; List of Equipment to be provided by the venue. 
