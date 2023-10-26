@@ -19,7 +19,7 @@ To be radical means to grasp things by the root. In practice, to be radical requ
 
 The Radical Humanities Laboratory: Radical Futures invites scholars, scientists, artists, activists, archivists, and policy shapers, to engage in conversations about the roots of present crises – ecological, political and social, and how collective futures might be better understood, transformed and lived differently as new potentials and trajectories emerge.  
 
-<h3>Event strands: </h3>
+<h3>Event strands </h3>
 <ul>
  <li>Papers</li>    
  <li>Panel discussions</li>    
