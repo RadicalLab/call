@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Radical Humanties Lab
-email: hello@patdryburgh.com
+title: Radical Futures
+email: sroddy@ucc.ie
 description: >- # this means to ignore newlines until "baseurl:"
-  An inarguably well-designed Jekyll theme.
+Call for participation at the inaugural conference of the Radical Humanities Laboratory 
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://radicallab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
